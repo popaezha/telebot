@@ -145,3 +145,4 @@ app = webapp2.WSGIApplication([
     ('/set_webhook', SetWebhookHandler),
     ('/webhook', WebhookHandler),
 ], debug=True)
+pass
